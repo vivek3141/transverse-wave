@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(255);
   calcWave();
   renderWave();
 }
@@ -32,7 +32,7 @@ function calcWave() {
 
 function renderWave() {
   noStroke();
-  fill(255);
+  fill(0);
   for (let x = 0; x < yvalues.length; x++) {
     ellipse(x * xspacing, height / 2 + yvalues[x], 16, 16);
   }
