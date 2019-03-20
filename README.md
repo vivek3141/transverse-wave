@@ -1,2 +1,2 @@
-# Trancscendental Wave
-An animation showing a transcendental wave using p5js
+# Transverse Wave
+Animation describing a transverse wave. In a transverse wave the particle displacement is perpendicular to the direction of wave propagation. This is shown in the animation where the particles are just moving up and down.
